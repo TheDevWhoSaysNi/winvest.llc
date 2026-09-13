@@ -1,12 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "winvest-llc",
-  // Workers static assets is Cloudflare's current path for new sites
-  // (Pages still works; new work should land here).
+  "name": "winvest",
   "compatibility_date": "2026-09-13",
-  "assets": {
-    "directory": "./public",
-    "not_found_handling": "404-page",
-    "html_handling": "auto-trailing-slash"
-  }
+  "pages_build_output_dir": "./public"
 }
