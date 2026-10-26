@@ -9,3 +9,33 @@
 
 /assets/illo/*
   Cache-Control: public, max-age=2592000
+
+/
+  Link: </index.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="describedby"
+
+/index.html
+  Link: </index.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="describedby"
+
+/privacy/
+  Link: </privacy/index.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="describedby"
+
+/privacy/index.html
+  Link: </privacy/index.md>; rel="alternate"; type="text/markdown", </llms.txt>; rel="describedby"
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex
+  Link: <https://www.winvest.llc/index.md>; rel="alternate"; type="text/markdown"
+
+/index.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex
+  Link: <https://www.winvest.llc/>; rel="canonical", </llms.txt>; rel="describedby"
+
+/privacy/index.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex
+  Link: <https://www.winvest.llc/privacy/>; rel="canonical", </llms.txt>; rel="describedby"

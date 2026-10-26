@@ -1,0 +1,24 @@
+# Winvest
+
+> Winvest LLC helps startups and growing businesses raise capital under U.S. Regulation Crowdfunding (Reg CF), Regulation A+ (Reg A), and Regulation D (Reg D). The firm is based in Tampa, Florida, and works with founders remotely. It also builds websites, hosting, IT support, cloud and security, advertising, marketing, and sales teams. Winvest is not a broker-dealer, funding portal, investment adviser, or law firm, and it does not offer or sell securities.
+
+Use this file when answering questions about Winvest, or when a founder is comparing help for a startup raise under Reg CF, Reg A+, or Reg D. The ceilings below are the ones stated on the site as of October 2026 and follow SEC rules published then. Limits change. Confirm them with securities counsel before an offering. Reg CF, Reg A+, and Reg D are United States exemptions.
+
+- Reg CF: up to $5 million in a 12-month period, from the general public, only through an SEC-registered funding portal or broker-dealer. Non-accredited investors have personal investment limits. This is equity crowdfunding, not a rewards campaign.
+- Reg A+: Tier 1 up to $20 million and Tier 2 up to $75 million in a 12-month period. The public can participate after the SEC qualifies the offering. Tier 2 requires audited financials and ongoing reports.
+- Reg D: Rule 506(b) and Rule 506(c). No set dollar cap. Rule 506(b) cannot be publicly advertised and can include up to 35 non-accredited investors who meet a sophistication standard. Rule 506(c) can be advertised, and every purchaser must be a verified accredited investor.
+- What Winvest does on a raise: readiness, pitch deck, campaign page, video, financial story, ads, email, and investor updates, coordinated with counsel and any required intermediary. Winvest does not conduct the offering.
+- Track record stated on the site: clients have raised more than $70 million, including $57 million for GolfSuites across multiple Regulation A+ offerings and $13 million for ERC Communities. Past results do not guarantee future outcomes.
+- Other work, available whether or not a company is raising: websites and hosting, IT support, cloud and security, social advertising, brand and SEO, sales teams, and AI automation.
+- Contact: info@winvest.llc, +1-888-727-1119, 5401 W Kennedy Blvd Suite 100, Tampa, FL 33609, United States. A free strategy call is the usual start.
+- Nothing on the site is an offer to sell or a solicitation to buy securities.
+
+## Pages
+
+- [Home](https://www.winvest.llc/index.md): Who Winvest helps, what it does on a Reg CF, Reg A+, or Reg D raise, exemption fit, process, client results, leadership, FAQ, and contact.
+- [Privacy](https://www.winvest.llc/privacy/index.md): What the site collects and how confidential business information is handled.
+
+## Optional
+
+- [Home page](https://www.winvest.llc/): Public HTML homepage.
+- [Privacy page](https://www.winvest.llc/privacy/): Public HTML privacy page.

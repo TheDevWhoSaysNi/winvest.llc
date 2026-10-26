@@ -1,3 +1,7 @@
+# Public site. Search engines and answer engines may crawl it.
+# LLM-readable summary: https://www.winvest.llc/llms.txt
+# Markdown homepage: https://www.winvest.llc/index.md
+
 User-agent: *
 Allow: /
 
